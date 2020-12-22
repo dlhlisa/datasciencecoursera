@@ -7,6 +7,8 @@ This course project include files:
 2. run_analysis.R: the R script for data cleaning and processing
 3. tidy_data.txt: the data saved after data cleaning and processing
 
+Please ignore the HelloWorld.md file since it was for another course assignment for the same course series.
+
 What run_analysis.R does?
 1. check working directory, if needed set it to the folder where you have the dataset that you want to work with
 2. read data from the two folder: train and test, combine features and subject number and activity code together
